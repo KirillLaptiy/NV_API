@@ -1,0 +1,35 @@
+ContextMenu_EN = {
+
+
+	/******************* Filters *******************/
+
+	ContextMenu_[NV]_Filter = "Filters (NVG)"
+	ContextMenu_Noiseless = "Noiseless"
+	ContextMenu_Linear_Blur = "Linear_Blur"
+	ContextMenu_Infrared = "Infrared"
+	ContextMenu_X-ray = "X-ray"
+
+
+	/******************* Brightness *******************/
+
+	ContextMenu_[NV]_Brightness = "Brightness (NVG)"
+	ContextMenu_Min = "Low"
+	ContextMenu_Med = "Moderate"
+	ContextMenu_Max = "High"
+
+
+	/******************* Battery charge *******************/
+
+	ContextMenu_[NV]_Charge | = "Battery charge (NVG): "
+	ContextMenu_item_is_fully_charged = "Battery fully charged"
+	ContextMenu_Need_a_battery_to_recharge = "Battery required for recharge"
+	ContextMenu_Operation_not_allowed = "Charging not allowed at the moment"
+
+
+	/******************* Repair *******************/
+
+	ContextMenu_[NV]_Repair = "Repair (NVG)"
+	ContextMenu_item_is_not_broken = "Nothing is broken"
+
+
+}

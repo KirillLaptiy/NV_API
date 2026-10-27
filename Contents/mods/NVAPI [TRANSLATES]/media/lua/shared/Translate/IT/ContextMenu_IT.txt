@@ -1,0 +1,33 @@
+ContextMenu_IT = {
+
+/******************* Filtri *******************/
+
+ContextMenu_[NV]_Filter = "Filtri (OVN)"
+ContextMenu_Noiseless = "Senza rumore"
+ContextMenu_Linear_Blur = "Sfocatura_lineare"
+ContextMenu_Infrared = "Infrarossi"
+ContextMenu_X-ray = "Raggi-X"
+
+
+/******************* Luminosità *******************/
+
+ContextMenu_[NV]_Brightness = "Luminosità (OVN)"
+ContextMenu_Min = "Bassa"
+ContextMenu_Med = "Moderata"
+ContextMenu_Max = "Alta"
+
+
+/******************* Carica della batteria *******************/
+
+ContextMenu_[NV]_Charge | = "Carica della batteria (OVN): "
+ContextMenu_item_is_fully_charged = "Batterica carica"
+ContextMenu_Need_a_battery_to_recharge = "Batteria necessaria per la ricarica"
+ContextMenu_Operation_not_allowed = "La ricarica non è consentita al momento"
+
+
+/******************* Riparazione *******************/
+
+ContextMenu_[NV]_Repair = "Ripara (OVN)"
+ContextMenu_item_is_not_broken = "Nulla è rotto"
+
+}

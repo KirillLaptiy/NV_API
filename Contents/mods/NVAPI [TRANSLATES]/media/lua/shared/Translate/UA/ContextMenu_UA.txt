@@ -1,0 +1,36 @@
+ContextMenu_UA = {
+
+
+	/******************* Фільтри *******************/
+
+	ContextMenu_[NV]_Filter = "Фільтри (ПНБ)"
+	ContextMenu_Noiseless = "Шумоподавлення"
+	ContextMenu_Linear_Blur = "Лінійне розмиття"
+	ContextMenu_Infrared = "Інфрачервона підсвітка"
+	ContextMenu_X-ray = "Рентген"
+
+
+	/******************* Яскравість *******************/
+
+	ContextMenu_[NV]_Brightness = "Яскравість (ПНБ)"
+	ContextMenu_Min = "Тьмяно"
+	ContextMenu_Med = "Середньо"
+	ContextMenu_Max = "Яскраво"
+
+
+	/******************* Заряд батареї *******************/
+
+	ContextMenu_[NV]_Charge | = "Заряд батареї (ПНБ): "
+	ContextMenu_Battery = "Батарея"
+	ContextMenu_item_is_fully_charged = "Батарея повністю заряджена"
+	ContextMenu_Need_a_battery_to_recharge = "Потрібна батарея для зарядки"
+	ContextMenu_Operation_not_allowed = "Зарядка не дозволена зараз"
+
+
+	/******************* Ремонт *******************/
+
+	ContextMenu_[NV]_Repair = "Ремонт (ПНБ)"
+	ContextMenu_item_is_not_broken = "Нічого не зламано"
+
+
+}

@@ -1,0 +1,35 @@
+version=1
+id=3013298666
+title=Night Vision API [TRANSLATES]
+description=This mod is a copy of the Night Vision API mod, but with translations, it is necessary for the Night Vision Goggles [TRANSLATES] mod to work, since this is a complete copy, the original mod is not needed. If you want me to add your translation, write it in the discussion
+description=
+description=Night Vision Goggles [TRANSLATES] :
+description=
+description=https://steamcommunity.com/sharedfiles/filedetails/?id=3013295112
+description=
+description=[b]
+description=
+description=Ready translations:
+description=
+description=EN - Yummy
+description=EN - Yummy
+description=UA - Yummy
+description=PTBR - N?o ? o Gui
+description=ES - Inferno
+description=IT - AndyD
+description=
+description=[/b]
+description=
+description=Thanks to [b]ricochete[/b] for creating the original mods:
+description=
+description=Night Vision Goggles: https://steamcommunity.com/sharedfiles/filedetails/?id=2769995104
+description=
+description=Night Vision API: https://steamcommunity.com/workshop/filedetails/?id=2776633989
+description=
+description=
+description=I also want to express special thanks to [url=https://steamcommunity.com/id/BitBraven] BitBraven [/url] for help with the code, thank you very much!
+description=
+description=Workshop ID: 3013298666
+description=Mod ID: NVAPI [TRANSLATES]
+tags=Build 41;Clothing/Armor;Language/Translation;Multiplayer
+visibility=public
